@@ -1,0 +1,18 @@
+@import '/src/assets/scss/main';
+
+:host {
+  display: inline-block;
+  height: 100%;
+
+  > main {
+    height: $main-body-height;
+    overflow-y: scroll;
+    padding: $main-body-gap 0;
+    &::-webkit-scrollbar-button {
+      height: calc($menu-height + 2px);
+    }
+    &::-webkit-resizer {
+      height: 100px;
+    }
+  }
+}

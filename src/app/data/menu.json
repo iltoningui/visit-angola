@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "#home",
+    "title": "",
+    "link": "",
+    "isActive": false
+  },
+  {
+    "icon": "tourism.svg",
+    "title": "The Tourism",
+    "link": "/tourism",
+    "isActive": false
+  },
+  {
+    "icon": "food.svg",
+    "title": "The Food",
+    "link": "/food",
+    "isActive": false
+  },
+  {
+    "icon": "art.svg",
+    "title": "The Art",
+    "link": "/art",
+    "isActive": false
+  },
+  {
+    "icon": "culture.svg",
+    "title": "The Culture",
+    "link": "/culture",
+    "isActive": false
+  }
+]

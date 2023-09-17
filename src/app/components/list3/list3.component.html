@@ -1,0 +1,8 @@
+<div *ngFor="let item of data" class="flex-row content-start round16 wd80">
+  <img src="assets/images/{{item.imageUrl}}" alt="{{ item.title }}" srcset="">
+  <div class="flex-col content-start align-start gap20">
+    <h2 class="pt50">{{ item.title }}</h2>
+    <span class="">{{ item.category }}</span>
+    <a class="link round16" href="#">Discover more</a>
+  </div>
+</div>

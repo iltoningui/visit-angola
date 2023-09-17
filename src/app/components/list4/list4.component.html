@@ -1,0 +1,8 @@
+<div *ngFor="let item of data" class="flex-row content-stretch" style="background-image: url('assets/images/{{item.imageUrl}}');">
+  <!-- <img src="assets/images/{{item.imageUrl}}" alt="{{ item.title }}" srcset=""> -->
+  <div class="flex-col gap20">
+    <h2 class="pt50">{{ item.title }}</h2>
+    <span class="">{{ item.category }}</span>
+    <p>{{ item.summary }}</p>
+  </div>
+</div>

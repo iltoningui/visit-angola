@@ -1,0 +1,68 @@
+[
+    {
+        "imageUrl": "art/ana_karina.jpg",
+        "title": "Ana Karina",
+        "category": "Singer",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/bangao.jpg",
+        "title": "Bangão",
+        "category": "Singer",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/bonga.jpg",
+        "title": "Bonga",
+        "category": "Singer",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/carlos_buriti.jpg",
+        "title": "Carlos Burity",
+        "category": "Singer",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/fredy_costa.jpg",
+        "title": "Fredy Costa",
+        "category": "Actor",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/grace_mendes.jpg",
+        "title": "Grace Mendes",
+        "category": "Band",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/lurdes_van_dunen.jpg",
+        "title": "Lurdes Van Dunen",
+        "category": "Singer",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/maya_cool.jpg",
+        "title": "Maya Cool",
+        "category": "Singer",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/pereira.jpg",
+        "title": "Lesliana Pereira",
+        "category": "Actrees",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/semba.jpg",
+        "title": "Semba",
+        "category": "Music Style",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    },
+    {
+        "imageUrl": "art/yolanda_viegas.jpg",
+        "title": "Yolanda Viegas",
+        "category": "Actress",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna urna, maximus vitae dui non, efficitur porta quam. Ut dapibus sapien leo, eu imperdiet elit maximus vel. Curabitur felis elit, rutrum vel orci ut, rutrum tincidunt tortor. Pellentesque felis arcu, mollis pulvinar lacus sed, mollis semper arcu. Morbi et lorem non leo posuere dignissim. Phasellus tempor condimentum mattis. Quisque sollicitudin dictum ex at iaculis. Nullam tincidunt molestie nibh, nec convallis metus efficitur a. Nam pharetra nunc tortor, ac hendrerit ex maximus at. Suspendisse egestas lorem id magna dignissim, ac tincidunt tellus convallis. Suspendisse varius felis orci, vitae bibendum urna scelerisque ac. Morbi id sem tempus, dictum est sed, mollis augue. Praesent condimentum, arcu in gravida tincidunt, ipsum lorem venenatis velit, quis dapibus massa nisl nec nulla. Integer a justo purus. Nam dapibus ullamcorper eros, sed ultricies orci aliquet eu."
+    }
+]

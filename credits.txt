@@ -1,0 +1,16 @@
+
+Where a saw how to apply the acrylic effect
+
+https://stackoverflow.com/questions/44522299/css-only-acrylic-material-from-fluent-design-system
+
+Tutorial for acrylic effect
+
+https://medium.com/microsoft-design/diy-a-web-version-the-fluent-design-systems-acrylic-material-fe2eac2a40bb
+
+
+Text about angola from this sites
+https://www.pa-angola-tourism.com/english/about-angola/
+
+
+Customizing Scrollbar tutorial
+https://medium.com/spemer/customize-websites-scrollbar-with-css-270ca436d6c1

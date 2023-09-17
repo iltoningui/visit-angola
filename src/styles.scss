@@ -1,0 +1,38 @@
+@import 'assets/scss/main.scss';
+
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  background-image: url('assets/images/background.jpg');
+  // background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left top;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+::-webkit-scrollbar       {
+  background-color:rgba(173, 40, 40, 0);
+  width: 16px;
+}
+::-webkit-scrollbar-track {
+  background-color:rgba(22, 180, 83, 0);
+}
+::-webkit-scrollbar-thumb {
+  background-color: lighten($primary-black, 20%);
+  color: rgb(255, 255, 255, 1);
+  border: 2px solid transparent;
+  border-radius: 16px;
+}
+

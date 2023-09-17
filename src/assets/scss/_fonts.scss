@@ -1,0 +1,63 @@
+h1 {
+  font-size: 4rem;
+  line-height: 3.5rem;
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 2.5rem;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+}
+
+h3 {
+  font-size: 2rem;
+  line-height: 2.5rem;
+  font-weight: 300;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  font-size: 1rem;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, a {
+  &.justify-text {
+    text-align: justify;
+  }
+}
+
+
+// Style links
+a {
+  font-size: 1rem;
+  text-decoration: none;
+}
+.link {
+  font-size: 1rem;
+  text-decoration: none;
+
+  &:link {
+    color: black;
+  }
+
+  &:visited {
+    color: black;
+  }
+  
+  &:hover {
+    background-color: $primary-blue;
+    color: white;
+  }
+  
+  &:active {
+    color: black;
+  }
+}

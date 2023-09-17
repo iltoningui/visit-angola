@@ -1,0 +1,38 @@
+$dark-theme: true !default;
+$primary-color: #ffffff !default;
+
+$alpha-30: 30;
+$alpha-20: 20;
+$alpha-10: 10;
+$white: #ffffff;
+$black: #000000;
+$blur: 25px;
+$blur-2: 30px;
+$blur-3: 40px;
+$saturate: 125%;
+$light-10: 10%;
+$light-20: 20%;
+$light-30: 30%;
+
+@if $dark-theme {
+  $primary-color: lighten($black, 60%);
+}
+
+.acrylic {
+  background: rgba(255, 255, 255, 30%);
+  box-shadow: 0 10px 30px rgba(255, 255, 255, 10%), 0 1px 8px rgba(255, 255, 255, 20%);
+  -webkit-backdrop-filter: blur(25px) saturate(125%);
+  backdrop-filter: blur(25px) saturate(125%);
+  border: 1px solid rgba(255, 255, 255, 30%);
+
+  &.dark {
+    background: rgba(0, 0,0, 30%);
+    box-shadow: 0 10px 30px rgba(0, 0,0, 10%), 0 1px 8px rgba(0, 0,0, 20%);
+    border: 1px solid rgba(0, 0, 0, 30%);
+  }
+  
+  &.round {
+    border-radius: 16px;
+  }
+}
+

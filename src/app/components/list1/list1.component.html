@@ -1,0 +1,9 @@
+<div *ngFor="let item of data">
+  <img src="assets/images/{{item.imageUrl}}" alt="{{ item.title }}" srcset="">
+  <div  class="flex-col content-start items-start gap20">
+    <span>{{ item.category }}</span>
+    <h2>{{ item.title }}</h2>
+    <p>{{ item.summary }}</p>
+    <a href="{{ item.url }}">Discover more</a>
+  </div>
+</div>

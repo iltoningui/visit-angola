@@ -1,0 +1,26 @@
+[
+  {
+    "title":      "Cabinda",
+    "imageUrl":   "home/cabinda.jpg",
+    "category":   "Food",
+    "url":        "#"
+  },
+  {
+    "title":      "Calandula Falls",
+    "imageUrl":   "home/calandula.jpg",
+    "category":   "Food",
+    "url":        "#"
+  },
+  {
+    "title":      "M'banza Congo",
+    "imageUrl":   "home/huila-road.jpg",
+    "category":   "Food",
+    "url":        "#"
+  },
+  {
+    "title":      "Sassa Caves",
+    "imageUrl":   "home/sassa-caves.jpg",
+    "category":   "Food",
+    "url":        "#"
+  }
+]

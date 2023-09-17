@@ -1,0 +1,51 @@
+@import '/src/assets/scss/main';
+
+:host {
+  height: $menu-height;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 5;
+  list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+
+  > a {
+    color: $primary-black;
+    font-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 1rem;
+    font-weight: 700;
+    height: 100%;
+
+    &:link {
+      color: black;
+    }
+  
+    &:visited {
+      color: black;
+    }
+    
+    &:hover {
+      background-color: rgb(202, 202, 202);
+    }
+    
+    &:active {
+      color: black;
+    }
+
+    > svg {
+      width: 30px;
+    }
+  }
+}

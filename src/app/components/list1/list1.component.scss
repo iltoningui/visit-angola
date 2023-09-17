@@ -1,0 +1,79 @@
+@import '/src/assets/scss/main';
+
+:host {
+  gap: 10px;
+  flex-wrap: wrap;
+  width: 90%;
+
+  > div {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 250px;
+    background-color: #1a4fc1;
+    padding-bottom: 30px;
+
+    > img {
+      object-fit: cover;
+      height: 300px;
+      width: 100%;
+    }
+    
+    > div {
+      padding: 20px 25px;
+
+      > span {
+        font-size: .75rem;
+        font-weight: 500;
+        height: 20px;
+        color: white;
+      }
+  
+      > h2 {
+        font-size: 1.5rem;
+        line-height: 1.5rem;
+        height: 1.5rem;
+        overflow: hidden;
+        color: white;
+        font-weight: 600;
+      }
+  
+      > p {
+        font-size: 1rem;
+        line-height: 1rem;
+        color: white;
+        font-weight: 400;
+        margin: 0;
+        padding: 0;
+        height: 95px;
+        overflow: hidden;
+      }
+  
+      > a {
+        display: inline-block;
+        color: $primary-white;
+        border: 1px solid $primary-white;
+        font-size: 1rem;
+        font-weight: 500;
+        line-height: 1.25rem;
+        letter-spacing: normal;
+        text-align: center;
+        border-radius: 4px;
+        padding: 10px;
+      }
+  
+      // > a {
+      //   color: $primary-black;
+      //   border: 1px solid $primary-black;
+      //   padding: 15px;
+        
+      //   &:hover {
+      //     background-color: $primary-blue;
+      //     border: 1px solid $primary-blue;
+      //     color: white;
+      //   }
+  
+      // }
+    }
+  }
+
+}

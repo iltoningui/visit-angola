@@ -1,0 +1,7 @@
+
+<a *ngFor="let item of menuItems" href="{{item.link}}">
+  {{item.title}}
+  <svg class="icon" *ngIf="item.icon && !item.title">
+    <use xlink:href="#home" />
+  </svg>
+</a>

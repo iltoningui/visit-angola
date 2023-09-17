@@ -1,0 +1,45 @@
+@import '/src/assets/scss/main';
+
+:host {
+
+  * h2 {
+    font-size: 2.5rem;
+    font-weight: 500;
+    line-height: 2.75rem;
+    padding: 15px 0;
+  }
+  
+  &.hero {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-position: left center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: 400px;
+  }
+
+  > div {
+    background-color: rgba(0, 0,0, 0.4);
+    height: 100%;
+    padding: 0 30px;
+
+    > h2, > p {
+      color: $primary-white;
+      padding-left: 50px;
+      width: 500px;
+    }
+  
+    &.black {
+      > h2, > p {
+        color: $primary-black;
+      }
+    }
+  }
+}
